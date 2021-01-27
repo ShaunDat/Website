@@ -151,7 +151,7 @@ footer{
         </div>
         <div class="clearfix"></div>
         <div class="topnav">
-            <a href="Index.php" class="col-2"> HOME</a>
+            <a href="Index.php" class="col-2"> HOME ???</a>
             <a href="resources\data\Catagory\CatagoryAo.php" class="col-2">SHIRT</a>
             <a href="resources\data\Catagory\CatagoryQuan.php" class="col-2">TROUSERS</a>
             <a href="resources\data\Catagory\CatagoryGiay.php" class="col-2">SHOES</a>
